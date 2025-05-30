@@ -49,32 +49,21 @@ I'm a **dedicated fullstack developer** with over **4 years of professional expe
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### **Data Science & AI/ML**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-
 ### **Databases & Tools**
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+### **Data Science & AI/ML**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
 ### **Game Development**
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=acengukfah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=acengukfah&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acengukfah&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-</div>
 
 ## 🏆 Achievements & Certifications
 
@@ -93,20 +82,26 @@ I'm a **dedicated fullstack developer** with over **4 years of professional expe
 - Real-time gesture detection and feedback system
 - **Tech Stack:** Python, OpenCV, TensorFlow, YOLO, Computer Vision
 
-### 🎯 [Baby Is You - Puzzle Game](https://github.com/acengukfah)
+### 🎯 [Baby Is You - Puzzle Game](https://github.com/acengukfah/baby-is-you)
 **Personal Game Project** *(Jul 2020 - Sep 2020)*
 - Puzzle game with dynamic rule manipulation mechanics
 - Inspired by the acclaimed "Baba Is You" game
 - **Tech Stack:** C#, Unity, Game Development
 
-### 💼 Professional Web Applications
-- **RESTful APIs** with Laravel and Django
-- **ETL Pipelines** with Python and Kafka
-- **Frontend Applications** with React and Vue.js
-
 ## 📈 Activity Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=acengukfah&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=acengukfah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=acengukfah&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acengukfah&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
 </div>
 
 ## 🎓 Education
