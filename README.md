@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hey there, I'm Agung Fitrah Ramadhana Ukfah!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Fullstack+Developer+%F0%9F%9A%80;4%2B+Years+Experience+%F0%9F%92%BC;Laravel+%26+Django+Expert+%F0%9F%90%8D;Computer+Vision+Enthusiast+%F0%9F%A4%96;Yogyakarta%2C+Indonesia+%F0%9F%87%AE%F0%9F%87%A9" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Fullstack+Developer+%F0%9F%9A%80;4%2B+Years+Experience+%F0%9F%92%BC;Laravel+%26+Django+Expert+%F0%9F%90%8D;Computer+Vision+Expert+%F0%9F%A4%96;Yogyakarta%2C+Indonesia+%F0%9F%87%AE%F0%9F%87%A9" alt="Typing SVG" />
 </div>
 
 <br>
@@ -68,9 +68,9 @@ const agung = {
   
 | 🎯 **Current Focus** | 🌱 **Learning** | 🏆 **Achievements** |
 |:---:|:---:|:---:|
-| Professional Projects | Advanced AI/ML | Programming Competition Semifinalist |
-| Open Source Contributions | Modern Frontend Frameworks | National Science Olympiad Winner |
-| Client Solutions | Cloud Architecture | Beasiswa Unggulan Awardee |
+| Professional Projects | Advanced AI/ML/DL | Bachelor in Informatics, 3.76 GPA |
+| Open Source Contributions | Modern Frontend Frameworks | Programming Competition Semifinalist |
+| Optimisation | Cloud Computing Deployment | National Science Olympiad Winner |
 
 </div>
 
@@ -184,13 +184,17 @@ const agung = {
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=acengukfah&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&fire=00D4FF&sideNums=00D4FF&currStreakNum=00D4FF&ring=00D4FF&currStreakLabel=00D4FF&sideLabels=00D4FF" alt="GitHub Streak"/>
+        <img src="https://github-readme-stats-agung-ukfahs-projects.vercel.app/api?username=acengukfah&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFF&icon_color=00D4FF&count_private=true&rank_icon=github&hide_title=true" alt="GitHub Stats"/>
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acengukfah&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFF&icon_color=00D4FF" alt="Top Languages"/>
+        <img src="https://github-readme-stats-agung-ukfahs-projects.vercel.app/api/top-langs/?username=acengukfah&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFF&icon_color=00D4FF&count_private=true" alt="Top Languages"/>
       </td>
     </tr>
   </table>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=acengukfah&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&fire=00D4FF&sideNums=00D4FF&currStreakNum=00D4FF&ring=00D4FF&currStreakLabel=00D4FF&sideLabels=00D4FF" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
