@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hey there, I'm Agung Fitrah Ramadhana Ukfah!
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hey there, I'm Agung Fitrah Ramadhana Ukfah!
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Fullstack+Developer+%F0%9F%9A%80;4%2B+Years+Experience+%F0%9F%92%BC;Laravel+%26+Django+Expert+%F0%9F%90%8D;Computer+Vision+Expert+%F0%9F%A4%96;Yogyakarta%2C+Indonesia+%F0%9F%87%AE%F0%9F%87%A9" alt="Typing SVG" />
