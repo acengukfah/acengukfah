@@ -1,21 +1,80 @@
-# 👋 Hey there, I'm Agung Fitrah Ramadhana Ukfah!
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hey there, I'm Agung Fitrah Ramadhana Ukfah!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Senior+Fullstack+Developer;4%2B+Years+Experience;Laravel+%26+Django+Expert;Computer+Vision+Enthusiast;Based+in+Yogyakarta%2C+Indonesia" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Fullstack+Developer+%F0%9F%9A%80;4%2B+Years+Experience+%F0%9F%92%BC;Laravel+%26+Django+Expert+%F0%9F%90%8D;Computer+Vision+Enthusiast+%F0%9F%A4%96;Yogyakarta%2C+Indonesia+%F0%9F%87%AE%F0%9F%87%A9" alt="Typing SVG" />
 </div>
 
-## 🚀 About Me
+<br>
 
-I'm a **dedicated fullstack developer** with over **4 years of professional experience** specializing in backend development using **Python (Django)** and **PHP (Laravel)**, complemented by strong frontend skills in **React** and **Vue.js**. Based in the beautiful city of **Yogyakarta, Indonesia** 🇮🇩.
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
-- 🔭 Currently working on **Computer Vision Ball Throwing Game** for my undergraduate thesis
-- 🌱 Exploring **Computer Vision**, **YOLO**, **OpenCV**, and **TensorFlow**
-- 💼 **4+ years** of professional development experience across multiple companies
-- 🎯 Passionate about building scalable, efficient backend systems and engaging user interfaces
-- 🏆 **Competition achiever**: Programming competitions semifinalist & National Science Olympiad winner
-- ⚡ Fun fact: I love combining traditional game mechanics with modern tech (like my Baba Is You inspired project!)
+## 🌟 About Me
 
-## 💼 Professional Experience
+<table>
+<tr>
+<td>
+
+I'm a **passionate fullstack developer** with **4+ years** of professional experience, specializing in crafting robust backend systems with **Python (Django)** and **PHP (Laravel)**, while building beautiful frontends using **React** and **Vue.js**. 
+
+I recently **completed my undergraduate degree** in Informatics with a thesis on Computer Vision, exploring the fascinating intersection of AI and interactive gaming.
+
+**📍 Based in:** Yogyakarta, Indonesia 🏛️  
+**🎯 Focus:** Building scalable, efficient systems that make a difference  
+**🔬 Expertise:** Computer Vision, YOLO, OpenCV, TensorFlow  
+
+</td>
+<td>
+
+```javascript
+const agung = {
+    name: "Agung Fitrah Ramadhana Ukfah",
+    role: "Fullstack Developer",
+    location: "Yogyakarta, Indonesia",
+    experience: "4+ years",
+    education: "Bachelor's in Informatics",
+    passion: "Clean Code & Innovation",
+    funFact: "I turn coffee into code ☕→💻"
+};
+```
+
+</td>
+</tr>
+</table>
+
+## 🤝 Let's Connect & Collaborate!
+
+<div align="center">
+  
+**I'm always excited to discuss new opportunities, innovative projects, or just chat about the latest in tech!**
+
+<br>
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-acengukfah.github.io-FF5722?style=for-the-badge&logoColor=white)](https://acengukfah.github.io)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-agungukfah-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agungukfah)
+[![Email](https://img.shields.io/badge/📧_Email-agungukfah@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agungukfah@gmail.com)
+[![Discord](https://img.shields.io/badge/🎮_Discord-burongki-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/burongki)
+
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+## 🔥 What I'm Up To
+
+<div align="center">
+  
+| 🎯 **Current Focus** | 🌱 **Learning** | 🏆 **Achievements** |
+|:---:|:---:|:---:|
+| Professional Projects | Advanced AI/ML | Programming Competition Semifinalist |
+| Open Source Contributions | Modern Frontend Frameworks | National Science Olympiad Winner |
+| Client Solutions | Cloud Architecture | Beasiswa Unggulan Awardee |
+
+</div>
+
+## 💼 Professional Journey
 
 ### 🏢 **GebutDev** - Full Stack Developer *(Sep 2022 - Jun 2024)*
 - Developed and maintained **scalable RESTful APIs** with Laravel
@@ -35,46 +94,73 @@ I'm a **dedicated fullstack developer** with over **4 years of professional expe
 - **Lecturer Assistant** at Universitas Islam Indonesia
 - Taught: PHP, Laravel, CodeIgniter, C++, Python, UI/UX Design (Figma)
 
-## 🛠️ Tech Stack & Skills
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
-### **Backend Development**
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### **Backend Mastery**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-### **Frontend Development**
+### **Frontend Wizardry**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### **Databases & Tools**
+### **AI/ML & Data Science**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+### **Database & DevOps**
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### **Data Science & AI/ML**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 ### **Game Development**
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-## 🏆 Achievements & Certifications
+</div>
 
-- 🥇 **1st Place** - National Science Olympiad (Computer Science, City Level)
-- 🏆 **Semifinalist** - Programming Competition at Universitas Syiah Kuala
-- 🏆 **Semifinalist** - SSF (Sebelas Maret Statistics Fair)
-- 🎓 **Beasiswa Unggulan** - Awardee for Achieving Society Category
-- 📜 **CEPT** - Certificate of English Proficiency Test (Score: 613)
-- 🎓 **GPA: 3.76** - Bachelor's Degree in Informatics, Universitas Islam Indonesia
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
-## 🚀 Featured Projects
+## 🏆 Hall of Fame
+
+<div align="center">
+
+| 🥇 Achievement | 📅 Year | 🏛️ Organization |
+|:---|:---:|:---|
+| **1st Place** - National Science Olympiad (Computer Science) | 2019 | City Government |
+| **Semifinalist** - Programming Competition | 2020 | Universitas Syiah Kuala |
+| **Semifinalist** - Statistics Fair Competition | 2020 | Universitas Sebelas Maret |
+| **Beasiswa Unggulan** - Achieving Society Category | 2021 | Indonesian Government |
+| **CEPT Certificate** - English Proficiency (Score: 613) | 2022 | Language Institute |
+| **Bachelor's Degree** - Informatics (GPA: 3.76) | 2025 | Universitas Islam Indonesia |
+
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+## 🚀 Personal Projects
 
 ### 🎮 [Computer Vision Ball Throwing Game](https://dspace.uii.ac.id/handle/123456789/55060)
 **Undergraduate Thesis Project** *(Jan 2024 - Jan 2025)*
@@ -88,38 +174,44 @@ I'm a **dedicated fullstack developer** with over **4 years of professional expe
 - Inspired by the acclaimed "Baba Is You" game
 - **Tech Stack:** C#, Unity, Game Development
 
-## 📈 Activity Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=acengukfah&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=acengukfah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=acengukfah&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
-</div>
-
-## 🤝 Let's Connect!
-
-I'm always open to discussing new opportunities, collaborations, or just chatting about tech!
-
-<div align="center">
-  
-[![Portfolio](https://img.shields.io/badge/Portfolio-acengukfah.github.io-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://acengukfah.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-agungukfah-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agungukfah)
-[![Email](https://img.shields.io/badge/Email-agungukfah@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agungukfah@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-burongki-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/burongki)
-[![Phone](https://img.shields.io/badge/Phone-(+62)%20852--2522--4054-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+6285225224054)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=acengukfah&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=acengukfah&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&fire=00D4FF&sideNums=00D4FF&currStreakNum=00D4FF&ring=00D4FF&currStreakLabel=00D4FF&sideLabels=00D4FF" alt="GitHub Streak"/>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acengukfah&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFF&icon_color=00D4FF" alt="Top Languages"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
-  <i>"The best way to predict the future is to implement it." – David Heinemeier Hansson</i>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=acengukfah&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF" alt="Activity Graph"/>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&width=100%"/>
+</div>
+
+<div align="center">
+  <h3>💭 <i>"The best way to predict the future is to implement it."</i></h3>
+  <p><strong>– David Heinemeier Hansson</strong></p>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=acengukfah&color=00D4FF&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
 </div>
