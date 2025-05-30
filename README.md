@@ -72,17 +72,17 @@ I'm a **dedicated fullstack developer** with over **4 years of professional expe
 - 🏆 **Semifinalist** - SSF (Sebelas Maret Statistics Fair)
 - 🎓 **Beasiswa Unggulan** - Awardee for Achieving Society Category
 - 📜 **CEPT** - Certificate of English Proficiency Test (Score: 613)
-- 🎓 **GPA: 3.76** - Universitas Islam Indonesia
+- 🎓 **GPA: 3.76** - Bachelor's Degree in Informatics, Universitas Islam Indonesia
 
 ## 🚀 Featured Projects
 
-### 🎮 [Computer Vision Ball Throwing Game](https://github.com/acengukfah)
+### 🎮 [Computer Vision Ball Throwing Game](https://dspace.uii.ac.id/handle/123456789/55060)
 **Undergraduate Thesis Project** *(Jan 2024 - Jan 2025)*
 - Interactive game using **YOLO**, **Python**, **OpenCV**, and **TensorFlow**
 - Real-time gesture detection and feedback system
 - **Tech Stack:** Python, OpenCV, TensorFlow, YOLO, Computer Vision
 
-### 🎯 [Baby Is You - Puzzle Game](https://github.com/acengukfah/baby-is-you)
+### 🎯 [Baby Is You - Puzzle Game](https://acengukfah.github.io/baby-is-you)
 **Personal Game Project** *(Jul 2020 - Sep 2020)*
 - Puzzle game with dynamic rule manipulation mechanics
 - Inspired by the acclaimed "Baba Is You" game
@@ -99,15 +99,6 @@ I'm a **dedicated fullstack developer** with over **4 years of professional expe
   <img src="https://github-readme-stats.vercel.app/api?username=acengukfah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=acengukfah&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 </div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acengukfah&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-</div>
-
-## 🎓 Education
-
-**Universitas Islam Indonesia** *(Sep 2018 - Jan 2025)*  
-**Bachelor's Degree in Informatics** | **GPA: 3.76**
 
 ## 🤝 Let's Connect!
 
