@@ -76,6 +76,10 @@ const agung = {
 
 </div>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
 ## 🔥 What I'm Up To
 
 <div align="center">
@@ -107,10 +111,6 @@ const agung = {
 - **Laboratory Assistant** at Laboratorium Terpadu Informatika UII
 - **Lecturer Assistant** at Universitas Islam Indonesia
 - Taught: PHP, Laravel, CodeIgniter, C++, Python, UI/UX Design (Figma)
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
