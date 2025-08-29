@@ -1,17 +1,4 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hey there, I'm Agung Fitrah Ramadhana Ukfah!
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Fullstack+Developer+%F0%9F%9A%80;4%2B+Years+Experience+%F0%9F%92%BC;Laravel+%26+Django+Expert+%F0%9F%90%8D;Computer+Vision+Expert+%F0%9F%A4%96;Yogyakarta%2C+Indonesia+%F0%9F%87%AE%F0%9F%87%A9" alt="Typing SVG" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-## 🌟 About Me
-
 <table>
 <tr>
 <td>
@@ -80,18 +67,6 @@ const agung = {
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-## 🔥 What I'm Up To
-
-<div align="center">
-  
-| 🎯 **Current Focus** | 🌱 **Learning** | 🏆 **Achievements** |
-|:---:|:---:|:---:|
-| Professional Projects | Advanced AI/ML/DL | Bachelor in Informatics, 3.76 GPA |
-| Open Source Contributions | Modern Frontend Frameworks | Programming Competition Semifinalist |
-| Optimisation | Cloud Computing Deployment | National Science Olympiad Winner |
-
-</div>
-
 ## 💼 Professional Journey
 
 ### 🏢 **GebutDev** - Full Stack Developer *(Sep 2022 - Jun 2024)*
@@ -116,7 +91,44 @@ const agung = {
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-## 🏆 Hall of Fame
+## 📊 GitHub Analytics
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats-agung-ukfah.vercel.app/api?username=acengukfah&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFF&icon_color=00D4FF&count_private=true&rank_icon=github&hide_title=true" alt="GitHub Stats"/>
+      </td>
+      <td>
+        <img src="https://github-readme-stats-agung-ukfah.vercel.app/api/top-langs/?username=acengukfah&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFF&icon_color=00D4FF&count_private=true" alt="Top Languages"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=acengukfah&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&fire=00D4FF&sideNums=00D4FF&currStreakNum=00D4FF&ring=00D4FF&currStreakLabel=00D4FF&sideLabels=00D4FF" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=acengukfah&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF" alt="Activity Graph"/>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+## 🔥 What I'm Up To
+
+<div align="center">
+  
+| 🎯 **Current Focus** | 🌱 **Learning** | 🏆 **Achievements** |
+|:---:|:---:|:---:|
+| Professional Projects | Advanced AI/ML/DL | Bachelor in Informatics, 3.76 GPA |
+| Open Source Contributions | Modern Frontend Frameworks | Programming Competition Semifinalist |
+| Optimisation | Cloud Computing Deployment | National Science Olympiad Winner |
+
+</div>
 
 <div align="center">
 
@@ -135,7 +147,7 @@ const agung = {
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-## 🚀 Personal Projects
+## 🚀 Personal Side Projects
 
 ### 🎮 [Computer Vision Ball Throwing Game](https://dspace.uii.ac.id/handle/123456789/55060)
 **Undergraduate Thesis Project** *(Jan 2024 - Jan 2025)*
@@ -148,33 +160,6 @@ const agung = {
 - Puzzle game with dynamic rule manipulation mechanics
 - Inspired by the acclaimed "Baba Is You" game
 - **Tech Stack:** C#, Unity, Game Development
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats-git-master-agung-ukfahs-projects.vercel.app/api?username=acengukfah&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFF&icon_color=00D4FF&count_private=true&rank_icon=github&hide_title=true" alt="GitHub Stats"/>
-      </td>
-      <td>
-        <img src="https://github-readme-stats-git-master-agung-ukfahs-projects.vercel.app/api/top-langs/?username=acengukfah&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFF&icon_color=00D4FF&count_private=true" alt="Top Languages"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=acengukfah&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&fire=00D4FF&sideNums=00D4FF&currStreakNum=00D4FF&ring=00D4FF&currStreakLabel=00D4FF&sideLabels=00D4FF" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=acengukfah&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF" alt="Activity Graph"/>
-</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
