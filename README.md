@@ -159,10 +159,10 @@ const agung = {
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats-agung-ukfahs-projects.vercel.app/api?username=acengukfah&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFF&icon_color=00D4FF&count_private=true&rank_icon=github&hide_title=true" alt="GitHub Stats"/>
+        <img src="https://github-readme-stats-git-master-agung-ukfahs-projects.vercel.app/api?username=acengukfah&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFF&icon_color=00D4FF&count_private=true&rank_icon=github&hide_title=true" alt="GitHub Stats"/>
       </td>
       <td>
-        <img src="https://github-readme-stats-agung-ukfahs-projects.vercel.app/api/top-langs/?username=acengukfah&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFF&icon_color=00D4FF&count_private=true" alt="Top Languages"/>
+        <img src="https://github-readme-stats-git-master-agung-ukfahs-projects.vercel.app/api/top-langs/?username=acengukfah&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFF&icon_color=00D4FF&count_private=true" alt="Top Languages"/>
       </td>
     </tr>
   </table>
