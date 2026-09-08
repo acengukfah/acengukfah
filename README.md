@@ -106,6 +106,8 @@ const agung = {
   </table>
 </div>
 
+
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=acengukfah&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&fire=00D4FF&sideNums=00D4FF&currStreakNum=00D4FF&ring=00D4FF&currStreakLabel=00D4FF&sideLabels=00D4FF" alt="GitHub Streak"/>
 </div>
@@ -115,7 +117,7 @@ const agung = {
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://github-readme-activity-graph-nine-kohl.vercel.app/graph?username=acengukfah&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF" alt="Activity Graph"/>
 </div>
 
 ## 🔥 What I'm Up To
