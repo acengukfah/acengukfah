@@ -107,11 +107,11 @@ const agung = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=acengukfah&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&fire=00D4FF&sideNums=00D4FF&currStreakNum=00D4FF&ring=00D4FF&currStreakLabel=00D4FF&sideLabels=00D4FF" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=acengukfah&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&fire=00D4FF&sideNums=00D4FF&currStreakNum=00D4FF&ring=00D4FF&currStreakLabel=00D4FF&sideLabels=00D4FF" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=acengukfah&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph-agung-ukfah.vercel.app/graph?username=acengukfah&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF" alt="Activity Graph"/>
 </div>
 
 <div align="center">
