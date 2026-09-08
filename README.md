@@ -69,6 +69,12 @@ const agung = {
 
 ## 💼 Professional Journey
 
+### 🏢 **MadeIndonesia** - Full Stack Developer *(Jun 2025 - Present)*
+- Developed and customized **WordPress themes and plugins** for production websites, including landing pages and e-commerce platforms
+- Built responsive frontend interfaces with **HTML**, **CSS**, and **JavaScript**
+- Integrated third-party services and APIs (forms, analytics, payment systems)
+- Supported **CI/CD workflows** for rapid release cycles
+
 ### 🏢 **GebutDev** - Full Stack Developer *(Sep 2022 - Jun 2024)*
 - Developed and maintained **scalable RESTful APIs** with Laravel
 - Optimized database queries and integrated **CI/CD pipelines** with GitLab
