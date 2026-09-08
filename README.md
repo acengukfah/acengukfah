@@ -113,10 +113,6 @@ const agung = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph-agung-ukfah.vercel.app/graph?username=acengukfah&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF" alt="Activity Graph"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-activity-graph-nine-kohl.vercel.app/graph?username=acengukfah&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF" alt="Activity Graph"/>
 </div>
 
