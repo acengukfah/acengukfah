@@ -1,15 +1,19 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hey there, I'm Agung Fitrah Ramadhana Ukfah!
+
 <table>
 <tr>
 <td>
 
-I'm a **passionate fullstack developer** with **4+ years** of professional experience, specializing in crafting robust backend systems with **Python (Django)** and **PHP (Laravel)**, while building beautiful frontends using **React** and **Vue.js**. 
+I'm a **Full-Stack Developer & Software Engineer** with **5+ years** of experience building scalable web applications, RESTful APIs, backend systems, and intelligent computer vision solutions.
 
-I recently **completed my undergraduate degree** in Informatics with a thesis on Computer Vision, exploring the fascinating intersection of AI and interactive gaming.
+I work across **JavaScript (React.js, Vue.js, Node.js)**, **PHP (Laravel, CodeIgniter, WordPress)**, and **Python (Django, FastAPI, OpenCV, YOLO)**, with a strong focus on clean code, Dockerized deployments, and high-performance backend architectures.
+
+I completed my **Bachelor of Informatics Engineering** at Universitas Islam Indonesia with a **3.76 / 4.00 GPA**, with undergraduate research focused on Computer Vision and interactive gaming.
 
 **📍 Based in:** Yogyakarta, Indonesia 🏛️  
-**🎯 Focus:** Building scalable, efficient systems that make a difference  
-**🔬 Expertise:** Computer Vision, YOLO, OpenCV, TensorFlow  
+**🎯 Focus:** Scalable web applications, REST APIs & backend architecture  
+**🔬 Expertise:** AI/ML, Computer Vision, YOLO, OpenCV, TensorFlow  
+**🌐 English:** IELTS 7.5 (C1)  
 
 </td>
 <td>
@@ -17,14 +21,17 @@ I recently **completed my undergraduate degree** in Informatics with a thesis on
 ```javascript
 const agung = {
     name: "Agung Fitrah Ramadhana Ukfah",
-    role: "Fullstack Developer",
+    role: "Full-Stack Developer & Software Engineer",
     location: "Yogyakarta, Indonesia",
-    experience: "4+ years",
-    education: "Bachelor's in Informatics",
+    experience: "5+ years",
+    education: "Bachelor of Informatics Engineering",
+    gpa: "3.76 / 4.00",
+    focus: "Full-Stack, Backend & AI/ML",
     passion: "Clean Code & Innovation",
     funFact: "I turn coffee into code ☕→💻"
 };
 ```
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=acengukfah&color=00D4FF&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
 </div>
@@ -36,11 +43,14 @@ const agung = {
 ## 🛠️ Tech Stack
 
 <div align="center">
-  
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
@@ -52,8 +62,10 @@ const agung = {
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI%2FCD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-111F68?style=for-the-badge&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -77,21 +89,26 @@ const agung = {
 
 ### 🏢 **GebutDev** - Full Stack Developer *(Sep 2022 - Jun 2024)*
 - Developed and maintained **scalable RESTful APIs** with Laravel
-- Optimized database queries and integrated **CI/CD pipelines** with GitLab
+- Optimized database queries and endpoints for throughput and latency
+- Implemented **GitLab CI/CD pipelines** and containerized builds with **Docker**
 - Built frontend solutions using **Vue.js**, **React**, and **Tailwind CSS**
 
 ### 🎓 **Informatika UII** - Web Developer *(Dec 2019 - Sep 2021)*
-- Enhanced existing web applications using **Laravel** and **CodeIgniter**
-- Integrated **GitLab CI/CD** pipelines for streamlined development
+- Enhanced and modernized web applications using **Laravel** and **CodeIgniter**
+- Worked with authentication, data modeling, security, and backend architecture
+- Integrated automated deployment and testing workflows
+- Enhanced frontend applications with **React** and **Tailwind CSS**
 
 ### 📊 **Budi Mulia Dua Foundation** - Data Engineer *(Mar 2021 - Aug 2021)*
 - Developed **ETL pipelines** for real-time social media data processing
-- Implemented **sentiment analysis models** using **Python**, **Kafka**, and **Docker**
+- Built data-processing workflows using **Python** and **Docker**
+- Worked with streaming data, asynchronous workers, and queue-based processing
+- Implemented sentiment analysis solutions for social media analytics
 
-### 👨‍🏫 **Teaching Experience** *(Aug 2019 - Jan 2021)*
-- **Laboratory Assistant** at Laboratorium Terpadu Informatika UII
-- **Lecturer Assistant** at Universitas Islam Indonesia
-- Taught: PHP, Laravel, CodeIgniter, C++, Python, UI/UX Design (Figma)
+### 👨‍🏫 **Teaching Experience**
+- **Laboratory Assistant** at Laboratorium Terpadu Informatika UII *(Aug 2019 - Jul 2021)*
+- **Lecturer Assistant** at Universitas Islam Indonesia *(Aug 2019 - Jan 2021)*
+- Taught and assisted with: PHP, Laravel, CodeIgniter, C++, Python, UI/UX Design (Figma)
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -112,12 +129,6 @@ const agung = {
   </table>
 </div>
 
-
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=acengukfah&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&fire=00D4FF&sideNums=00D4FF&currStreakNum=00D4FF&ring=00D4FF&currStreakLabel=00D4FF&sideLabels=00D4FF" alt="GitHub Streak"/>
-</div>
-
 <div align="center">
   <img src="https://github-readme-activity-graph-nine-kohl.vercel.app/graph?username=acengukfah&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF" alt="Activity Graph"/>
 </div>
@@ -125,12 +136,12 @@ const agung = {
 ## 🔥 What I'm Up To
 
 <div align="center">
-  
+
 | 🎯 **Current Focus** | 🌱 **Learning** | 🏆 **Achievements** |
 |:---:|:---:|:---:|
-| Professional Projects | Advanced AI/ML/DL | Bachelor in Informatics, 3.76 GPA |
-| Open Source Contributions | Modern Frontend Frameworks | Programming Competition Semifinalist |
-| Optimisation | Cloud Computing Deployment | National Science Olympiad Winner |
+| Professional Projects | Advanced AI/ML/DL & LLMs | Bachelor of Informatics Engineering, 3.76 GPA |
+| Open Source Contributions | Modern Frontend & Backend Frameworks | Programming Competition Semifinalist |
+| Optimisation | Cloud Computing & Deployment | 1st Place - Science Olympiad (Computer Science, City Level) |
 
 </div>
 
@@ -138,12 +149,13 @@ const agung = {
 
 | 🥇 Achievement | 📅 Year | 🏛️ Organization |
 |:---|:---:|:---|
-| **1st Place** - National Science Olympiad (Computer Science) | 2019 | City Government |
+| **1st Place** - Science Olympiad (Computer Science, City Level) | 2019 | City Government |
 | **Semifinalist** - Programming Competition | 2020 | Universitas Syiah Kuala |
 | **Semifinalist** - Statistics Fair Competition | 2020 | Universitas Sebelas Maret |
 | **Beasiswa Unggulan** - Achieving Society Category | 2021 | Indonesian Government |
-| **CEPT Certificate** - English Proficiency (Score: 613) | 2022 | Language Institute |
-| **Bachelor's Degree** - Informatics (GPA: 3.76) | 2025 | Universitas Islam Indonesia |
+| **CEPT Certificate** - English Proficiency (Score: 614 / B2) | 2022 | Language Institute |
+| **IELTS International** - English Proficiency (Band 7.5 / C1) | — | IELTS |
+| **Bachelor's Degree** - Informatics Engineering (GPA: 3.76) | 2025 | Universitas Islam Indonesia |
 
 </div>
 
@@ -172,7 +184,7 @@ const agung = {
 ## 🤝 Let's Connect & Collaborate!
 
 <div align="center">
-  
+
 <div align="center">
   <h3>💭 <i>"The best way to predict the future is to implement it."</i></h3>
   <p><strong>– David Heinemeier Hansson</strong></p>
